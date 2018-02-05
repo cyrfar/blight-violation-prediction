@@ -1,4 +1,4 @@
-# blight-violation-prediction
+# Blight-Violation-Prediction
 Michigan Data Science Team Challenge
 ##  Understanding and Predicting Property Maintenance Fines
 
